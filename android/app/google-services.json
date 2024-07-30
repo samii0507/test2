@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613309648170",
+    "project_id": "flutterfirebasecon-f53d4",
+    "storage_bucket": "flutterfirebasecon-f53d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613309648170:android:c88091745d699ee29ea253",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfowvOTYjTnEDz1khPhZ6Y__4CC4unDVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613309648170:android:96f79a8456dde5fc9ea253",
+        "android_client_info": {
+          "package_name": "com.labSliit.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfowvOTYjTnEDz1khPhZ6Y__4CC4unDVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
